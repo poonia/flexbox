@@ -1,4 +1,4 @@
-# flexbox
+# Flexbox
 Learnable CSS Flexbox Layout
 
 ## Getting Started
